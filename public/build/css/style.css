@@ -345,3 +345,83 @@ body{
 .fab{
   padding-left: 10px;
 }
+.experience1{
+
+   
+  padding: 5%;
+  margin: 5%;
+  
+  
+  }
+  /***********************************************************************************************************************************/
+  .mm{
+    color:black;
+    background-color:rgb(150, 48, 48);
+    background:#252A34 url(/build/Image/upf.jpg) no-repeat center bottom/cover;
+    margin:0;
+    background-attachment:fixed;
+  }
+  .experience1{
+     
+    padding: 5%;
+    margin: 5%;
+
+    
+    
+    }
+    .experience2{
+
+      width: 197px;
+      height: 55px;
+      margin-left: 180%;
+      color: #f3eff3;
+      font-family: "Segoe UI";
+      font-size: 50px;
+      font-weight: 600;
+      font-style: normal;
+      letter-spacing: normal;
+      line-height: normal;
+      text-align: center;
+      
+  }
+  
+  .experience3{
+      
+  width: 182px;
+  height: 41px;
+  color: #3b0742;
+  font-family: "Segoe UI";
+  font-size: 30px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  
+  
+  }
+  
+  .experience4{
+     
+  width: 626px;
+  height: 66px;
+  border-radius: 33px;
+  border: 1px solid #707070;
+  background-color: #ffffff;
+  }
+  
+  .experience5{
+    width: 200px;
+  height: 40px;
+  margin-left: 50%;
+  color: #093caf;
+  font-family: "Segoe UI";
+  font-size: 15px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  
+  
+  }
+  
+  
